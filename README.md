@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassy
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Inforamtion System in university.
+- 👀 I’m interested in building websites and Saas.
+
 
 
 
